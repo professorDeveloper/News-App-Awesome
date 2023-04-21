@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings">Ayarlar</string>
+    <string name="browse">Gözat</string>
+    <string name="discover">Bu dünyaya ait şeyleri keşfedin</string>
+    <string name="search">Ara</string>
+    <string name="recommended_for_you">Sizin için önerilir</string>
+    <string name="categories">Kategoriler</string>
+    <string name="each_category">Her kategoride binlerce makale</string>
+    <string name="bookmarks">Yer İşaretleri</string>
+    <string name="saved_articles_to_the_library">Kitaplığa kaydedilen makaleler</string>
+    <string name="result">Sonuç</string>
+    <string name="language">Dil</string>
+    <string name="find">İlginizi çeken binlerce konu bulun</string>
+    <string name="not_connected">"İnternet bağlı değil"</string>
+    <string name="you_have_not">Henüz herhangi bir makale kaydetmediniz. Şimdi okumaya ve yer imlerine eklemeye başlayın</string>
+    <string name="next">Sonraki</string>
+    <string name="night_mode">Gece modu</string>
+
+    <string name="general">Genel</string>
+    <string name="politics">Politika</string>
+    <string name="sports">Spor</string>
+    <string name="business">İş</string>
+    <string name="travel">Seyahat</string>
+    <string name="tech">Teknik</string>
+    <string name="health">Sağlık</string>
+    <string name="food">Yiyecek</string>
+    <string name="science">Bilim</string>
+    <string name="entertainment">Eğlence</string>
+
+    <string-array name="category_name_list">
+        <item>Genel</item>
+        <item>Politika</item>
+        <item>Spor</item>
+        <item>İş</item>
+        <item>Seyahat</item>
+        <item>Teknik</item>
+        <item>Sağlık</item>
+        <item>Yiyecek</item>
+        <item>Bilim</item>
+        <item>Eğlence</item>
+    </string-array>
+
+</resources>

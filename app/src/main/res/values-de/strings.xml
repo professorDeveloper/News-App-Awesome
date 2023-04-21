@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="settings">Einstellungen</string>
+    <string name="browse">Durchsuchen</string>
+    <string name="discover">Entdecke die Dinge dieser Welt</string>
+    <string name="search">Suchen</string>
+    <string name="recommended_for_you">Für dich empfohlen</string>
+    <string name="categories">Kategorien</string>
+    <string name="each_category">Tausende Artikel in jeder Kategorie</string>
+    <string name="bookmarks">Lesezeichen</string>
+    <string name="saved_articles_to_the_library">Artikel in der Bibliothek gespeichert</string>
+    <string name="result">Ergebnis</string>
+    <string name="language">Sprache</string>
+    <string name="find">Finde Tausende von Themen, die dich interessieren</string>
+    <string name="not_connected">"Internet nicht verbunden"</string>
+    <string name="you_have_not">Du hast noch keine Artikel gespeichert. Fangen Sie jetzt an, sie zu lesen und zu bookmarken</string>
+    <string name="next">Nächste</string>
+    <string name="night_mode">Nacht-Modus</string>
+
+    <string name="general">Allgemein</string>
+    <string name="politics">Politik</string>
+    <string name="sports">Sport</string>
+    <string name="business">Geschäft</string>
+    <string name="travel">Reisen</string>
+    <string name="tech">Technik</string>
+    <string name="health">Gesundheit</string>
+    <string name="food">Essen</string>
+    <string name="science">Wissenschaft</string>
+    <string name="entertainment">Unterhaltung</string>
+
+    <string-array name="category_name_list">
+        <item>Allgemein</item>
+        <item>Politik</item>
+        <item>Sport</item>
+        <item>Geschäft</item>
+        <item>Reisen</item>
+        <item>Tech</item>
+        <item>Gesundheit</item>
+        <item>Essen</item>
+        <item>Wissenschaft</item>
+        <item>Unterhaltung</item>
+    </string-array>
+
+</resources>

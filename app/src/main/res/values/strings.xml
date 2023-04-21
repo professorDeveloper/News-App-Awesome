@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name" translatable="false">News App</string>
+
+    <string name="settings">Settings</string>
+    <string name="browse">Browse</string>
+    <string name="discover">Discover things of this world</string>
+    <string name="search">Search</string>
+    <string name="recommended_for_you">Recommended for you</string>
+    <string name="categories">Categories</string>
+    <string name="each_category">Thousands of articles in each category</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="saved_articles_to_the_library">Saved articles to the library</string>
+    <string name="result">Result</string>
+    <string name="language">Language</string>
+    <string name="find">Find thousands of topics that interest you</string>
+    <string name="not_connected">"Internet not connected"</string>
+    <string name="you_have_not">You haven\'t saved any articles yet. Start reading and bookmarking them now</string>
+
+    <string name="next">Next</string>
+    <string name="night_mode">Night Mode</string>
+
+    <string name="english" translatable="false">English</string>
+    <string name="turkish" translatable="false">Turkish</string>
+    <string name="german" translatable="false">German</string>
+    <string name="spanish" translatable="false">Spanish</string>
+    <string name="russian" translatable="false">Russian</string>
+    <string name="china" translatable="false">China</string>
+    <string name="first_to_know" translatable="false">First to know</string>
+    <string name="onboarding_description" translatable="false">All news in one place, be the first to know last news</string>
+    <string name="select_your_favorite_topics" translatable="false">Select your favorite topics</string>
+    <string name="select_favorite_description" translatable="false">Select some of your favorite topics to let us suggest better news for you.</string>
+    <string name="welcome_description" translatable="false">All news in one place, be the first to know last news</string>
+    <string name="get_started" translatable="false">Get Started</string>
+
+    <string name="general">General</string>
+    <string name="politics">Politics</string>
+    <string name="sports">Sports</string>
+    <string name="business">Business</string>
+    <string name="travel">Travel</string>
+    <string name="tech">Tech</string>
+    <string name="health">Health</string>
+    <string name="food">Food</string>
+    <string name="science">Science</string>
+    <string name="entertainment">Entertainment</string>
+
+    <string-array name="category_list" translatable="false">
+        <item>General</item>
+        <item>Politics</item>
+        <item>Sports</item>
+        <item>Business</item>
+        <item>Travel</item>
+        <item>Tech</item>
+        <item>Health</item>
+        <item>Food</item>
+        <item>Science</item>
+        <item>Entertainment</item>
+    </string-array>
+
+    <string-array name="category_name_list">
+        <item>General</item>
+        <item>Politics</item>
+        <item>Sports</item>
+        <item>Business</item>
+        <item>Travel</item>
+        <item>Tech</item>
+        <item>Health</item>
+        <item>Food</item>
+        <item>Science</item>
+        <item>Entertainment</item>
+    </string-array>
+
+</resources>

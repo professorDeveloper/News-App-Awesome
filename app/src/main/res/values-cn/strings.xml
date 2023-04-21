@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings">设置</string>
+    <string name="browse">审查</string>
+    <string name="discover">发现这个世界的事物</string>
+    <string name="search">搜索</string>
+    <string name="recommended_for_you">为你推荐</string>
+    <string name="categories">类别</string>
+    <string name="each_category">每个类别都有数千篇文章</string>
+    <string name="bookmarks">书签</string>
+    <string name="saved_articles_to_the_library">保存在图书馆的文章</string>
+    <string name="result">结果</string>
+    <string name="language">语言</string>
+    <string name="find">找到您感兴趣的数千个主题</string>
+    <string name="not_connected">"未连接互联网"</string>
+    <string name="you_have_not">您还没有保存任何文章。立即开始阅读并加入书签</string>
+    <string name="next">下一个</string>
+    <string name="night_mode">夜间模式</string>
+
+    <string name="general">是常见的</string>
+    <string name="politics">政策</string>
+    <string name="sports">运动</string>
+    <string name="business">商业</string>
+    <string name="travel">行程</string>
+    <string name="tech">技术</string>
+    <string name="health">健康</string>
+    <string name="food">食物</string>
+    <string name="science">科学</string>
+    <string name="entertainment">娱乐</string>
+
+    <string-array name="category_name_list">
+        <item>是常见的</item>
+        <item>政策</item>
+        <item>运动</item>
+        <item>商业</item>
+        <item>行程</item>
+        <item>技术</item>
+        <item>健康</item>
+        <item>食物</item>
+        <item>科学</item>
+        <item>娱乐</item>
+    </string-array>
+
+</resources>
