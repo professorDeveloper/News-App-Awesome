@@ -16,6 +16,9 @@ Includes all functionalities!
 - Search News
 - Save News by Favorite
 
+## Demo 
+
+https://user-images.githubusercontent.com/108933534/233543015-661e1f37-81ee-45fa-9819-d27985fbafa3.mp4
 
 ## API Reference
 
